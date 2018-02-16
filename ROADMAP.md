@@ -6,7 +6,6 @@ Interested in contributing? Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for d
 
 ## Upcoming Breaking Changes
 
-- Typescript support will be temporarily deprecated in 2.0 in order to change our approach to generating types. The goal is to bring it back in 2.1. This is being done to unblock several new features and build issues that aren't currently supported by our current method. (#276 #250 )
 - Mark Placeholder for deprecation in 3.0. (#175)
 - Mark Selection for deprecation in 3.0. (#175)
 
@@ -26,7 +25,6 @@ Interested in contributing? Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for d
 
 ## Features Being Considered For Inclusion In Future Releases
 
-- Bring back TypeScript support.
 - Reason support.
 - Border shorthand to address issues with shorthand properties in tools like Fela. (#264)
 - Modules for doing math operations on values with units of measure. (#233 #212)
