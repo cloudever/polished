@@ -110,5 +110,9 @@
   "jest": {
     "coverageDirectory": "./coverage/",
     "collectCoverage": true
+  },
+  "collective": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/polished"
   }
 }
